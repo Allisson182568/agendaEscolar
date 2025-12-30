@@ -36,4 +36,4 @@ O usuário se compromete a fazer uso adequado dos conteúdos e da informação q
 
 ## 7. Contato
 Para mais informações sobre nossa política de privacidade, entre em contato:
-* **E-mail:** [SEU_EMAIL_DE_SUPORTE_AQUI]
+* **E-mail:** grupodantas@gmail.com
