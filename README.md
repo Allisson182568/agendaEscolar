@@ -37,3 +37,6 @@ O usuário se compromete a fazer uso adequado dos conteúdos e da informação q
 ## 7. Contato
 Para mais informações sobre nossa política de privacidade, entre em contato:
 * **E-mail:** grupodantas@gmail.com
+
+marketing
+https://github.com/Allisson182568/agendaEscolar/blob/main/marketing
